@@ -30,10 +30,6 @@
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
             "value": "chacha20-ietf-poly1305"
-        },
-        "StoreFiles": {
-            "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/jinhill/xrayku/master/etc/StoreFiles"
         }
     },
     "website": "https://github.com/jinhill/xrayku",
